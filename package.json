@@ -1,5 +1,5 @@
 {
-  "name": "titaniumaplus",
+  "name": "urlShortner-website",
   "version": "1.0.0",
   "description": "repo for assignments and practice problems",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sabihak89/titaniumaplus.git"
+    "url": "git+https://github.com/maxhothead776/urlShortner-website.git"
   },
-  "author": "functionUp",
+  "author": "mayank attri",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sabihak89/titaniumaplus/issues"
+    "url": "https://github.com/maxhothead776/urlShortner-website/issues"
   },
-  "homepage": "https://github.com/sabihak89/titaniumaplus#readme",
+  "homepage": "https://github.com/maxhothead776/urlShortner-website#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
